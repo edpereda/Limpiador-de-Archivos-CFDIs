@@ -1,0 +1,1 @@
+Folio-UUID-RFC Emisor-LugarDeExpedicion-UsoCFDI-SubTotal-Retenido ISR-ISH-Moneda-Tipo De Cambio-FormaDePago-Metodo de Pago-IEPS 3%-IEPS 8%-IEPS 30%-Nombre Receptor-SubTotal-Descuento-Total IEPS-IVA 16%-Total-Total Trasladados-Total Retenidos-
