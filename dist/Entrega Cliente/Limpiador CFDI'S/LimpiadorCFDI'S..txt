@@ -1,0 +1,28 @@
+Uninstaller	32,992	61%
+configuraciones\Boton1.txt	51	-8%
+icono.ico	13,538	94%
+lib\AbsoluteLayout.jar	2,244	23%
+lib\commons-codec-1.10.jar	234,417	18%
+lib\commons-collections4-4.1.jar	656,639	13%
+lib\commons-logging-1.2.jar	57,167	8%
+lib\curvesapi-1.04.jar	86,361	13%
+lib\JTattoo-1.6.11.jar	1,072,033	12%
+lib\junit-4.12.jar	275,994	13%
+lib\jxl.jar	670,228	8%
+lib\log4j-1.2.17.jar	441,561	10%
+lib\poi-3.17.jar	2,463,091	9%
+lib\poi-examples-3.17.jar	344,514	9%
+lib\poi-excelant-3.17.jar	28,517	9%
+lib\poi-ooxml-3.17.jar	1,383,490	7%
+lib\poi-ooxml-schemas-3.17.jar	4,580,384	23%
+lib\poi-scratchpad-3.17.jar	1,294,510	7%
+lib\xmlbeans-2.6.0.jar	2,322,570	15%
+LimpiadorExcel.jar	12,220	67%
+LimpiadorExcel.jar - Acceso directo.lnk	591	52%
+README.TXT	623	54%
+
+Result :
+    Number of files: 22
+    Total uncompressed size: 18898425 bytes
+    Total compressed size: 15973735 bytes
+    Install program size: 16165667 bytes
